@@ -76,6 +76,8 @@
 	<modules>
 		<module>../se.mattiasholmqvist.tychoexamples.eclemma.runtime.equinox</module>
 		<module>../se.mattiasholmqvist.tychoexamples.targetplatform</module>
+		<module>../se.mattiasholmqvist.tychoexamples.feature</module>
+		<module>../se.mattiasholmqvist.tychoexamples.updates</module>
 		<module>../se.mattiasholmqvist.tychoexamples.bundle</module>
 		<module>../se.mattiasholmqvist.tychoexamples.bundle.tests</module>
 	</modules>
