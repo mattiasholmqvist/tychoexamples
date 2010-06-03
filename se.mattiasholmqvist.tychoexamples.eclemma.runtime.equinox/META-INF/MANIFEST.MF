@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Export-Package: com.vladium.emma.rt
+Bundle-Vendor: Mountainminds GmbH & Co. KG
+Fragment-Host: org.eclipse.osgi;bundle-version="[3.5.0,4.0.0)"
+Bundle-ClassPath: .,emma.jar
+Bundle-Version: 1.1.0.200908261008
+Bundle-Name: Emma Runtime Instrumentation for Equinox
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: org.eclemma.runtime.equinox
+Bundle-RequiredExecutionEnvironment: J2SE-1.4,OSGi/Minimum-1.1
+
