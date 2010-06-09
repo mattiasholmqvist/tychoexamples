@@ -1,4 +1,4 @@
-package se.mattiasholmqvist.examples.bundle;
+package se.mattiasholmqvist.tychoexamples.bundle;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
