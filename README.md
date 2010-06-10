@@ -27,10 +27,10 @@ Download the source .tar or .zip. Unpack the sources to a folder somewhere.
 0. Open a command line shell.
 0. Go to the se.mattiasholmqvist.tychoexamples.parent project folder.
 0. Enter:
-> mvn clean package 
+`mvn clean package`
 
 ## Run unit tests with code coverage:
->mvn integration-test verify -Pcoverage
+`mvn integration-test verify -Pcoverage`
 
 # Want more help?
 
